@@ -4,15 +4,43 @@ body {
     padding: 20px;
 }
 
-.section {
-    margin-bottom: 20px;
-    padding: 20px;
-    border: 2px solid #333;
-}
+.section { /*Modifica el estilo de la sección 1*/
 
-#section1 {
-    background-color: lightblue;
-    color: #333;
+    margin-bottom: 30px; /* Tamaño de los margenes*/
+    padding: 20px; /* Espacio alrededor del elemento*/
+    border: 2px solid #00f4bf; /* Color del borde*/
+    font-size: 0.5cm; /* Tamaño de la letra*/
+    background-color:aquamarine; /* Color del fondo de la sección*/
+    color: #005238;
+    
+
+}
+.section2 { /*Modifica el estilo de la sección 2*/
+
+    margin-bottom: 30px; /* Tamaño de los margenes*/
+    padding: 20px; /* Espacio alrededor del elemento*/
+    border: 2px solid #d85dfa; /* Color del borde*/
+    font-size: 0.5cm; /* Tamaño de la letra*/
+    background-color: #ecb5fb; /* Color del fondo de la sección*/
+    color: #400052;
+}
+.section3 { /*Modifica el estilo de la sección 3*/
+
+    margin-bottom: 30px; /* Tamaño de los margenes*/
+    padding: 20px; /* Espacio alrededor del elemento*/
+    border: 2px solid #ffd557; /* Color del borde*/
+    font-size: 0.5cm; /* Tamaño de la letra*/
+    background-color: rgb(251, 247, 188); /* Color del fondo de la sección*/
+    color: #524d00;
+}
+.section4 { /*Modifica el estilo de la sección 4*/
+
+    margin-bottom: 30px; /* Tamaño de los margenes*/
+    padding: 20px; /* Espacio alrededor del elemento*/
+    border: 2px solid #fa5d87; /* Color del borde*/
+    font-size: 0.5cm; /* Tamaño de la letra*/
+    background-color:#f3b6c6; /* Color del fondo de la sección*/
+    color: #520030;
 }
 
 /* Agrega estilos para los colores en cada sección */
